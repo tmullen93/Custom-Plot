@@ -1,0 +1,113 @@
+Country,Region,CropGDP,CropLost
+Costa Rica,Latin America,28.6182,72.74242767
+United Republic of Tanzania,Sub-Saharain Africa,2.7836,65.02812202
+Montenegro,Europe,10.6867,64.65288468
+Guatemala,Latin America,10.3790,56.5419008
+Austria,Europe,13.1113,56.27278319
+Switzerland,Europe,21.3771,54.9635752
+Peru,Latin America,12.7581,53.26905236
+Colombia,Latin America,75.3658,53.17133121
+Kenya,Sub-Saharain Africa,30.7475,52.03904559
+Ecuador,Latin America,50.9098,51.70277666
+Kyrgyzstan,Asia,51.8975,47.11213045
+Togo,Oceania,36.7713,42.43962676
+Zimbabwe,Sub-Saharain Africa,8.1594,42.1098651
+Tajikistan,Middle East & North Africa,44.1244,41.62338028
+Ethiopia,Sub-Saharain Africa,52.4102,39.55700476
+Cameroon,Sub-Saharain Africa,28.1864,37.61943013
+Uruguay,Latin America,36.4619,37.5540845
+Brazil,Latin America,23.5225,37.36767336
+Sweden,Europe,3.0725,35.28895608
+Croatia,Europe,23.2334,33.41415331
+Namibia,Sub-Saharain Africa,54.7442,28.01498299
+Zambia,Sub-Saharain Africa,51.8975,22.15527172
+Paraguay,Latin America,51.5502,20.05154948
+Mozambique,Sub-Saharain Africa,59.0986,19.72439609
+Canada,North America,26.4278,18.24496917
+Venezuela,Latin America,20.2636,17.60411748
+Myanmar (Burma),Asia,63.6072,17.011808
+Norway,Europe,66.9809,16.44232771
+Latvia,Europe,41.1134,16.38330286
+Iceland,Europe,65.9764,15.99676546
+Angola,Sub-Saharain Africa,11.0128,15.92174326
+Pakistan,Asia,30.4416,15.86517553
+Georgia,Europe,45.1431,15.78180774
+Armenia,Europe,25.4462,15.62413248
+Albania,Europe,65.5600,15.602895
+Nepal,Asia,62.3472,15.58050371
+Democratic Republic of the Congo,Sub-Saharain Africa,64.4261,14.97625553
+Suriname,Latin America,20.1591,14.93370813
+Chile,Latin America,31.4857,14.05680001
+Serbia,Europe,30.2660,13.96551317
+Uzbekistan,Asia,18.7913,6.207290685
+Kazakhstan,Asia,8.4149,5.79956147
+Honduras,Latin America,27.8393,5.682835333
+Turkey,Asia,23.7016,5.24568572
+Sri Lanka,Asia,36.8953,4.846212407
+"Korea, Democratic People's Republic of",Asia,79.1122,1.978988
+Turkmenistan,Middle East & North Africa,8.3000,1.38573532
+Singapore,Asia,8.3000,1.318620009
+Niger,Sub-Saharain Africa,8.3000,1.251504697
+Libyan Arab Jamahiriya,Middle East & North Africa,8.3000,1.184389386
+Indonesia,Asia,14.9277,1.117274075
+Eritrea,Sub-Saharain Africa,8.3000,1.050158764
+Cyprus,Europe,8.3000,0.983043452
+Cuba,Latin America,8.7511,0.915928141
+Botswana,Sub-Saharain Africa,8.3000,0.84881283
+Benin,Sub-Saharain Africa,8.3000,0.781697519
+Netherlands,Europe,8.3786,0.714582207
+Ghana,Sub-Saharain Africa,76.2345,0.647466896
+Belgium,Europe,8.7563,0.580351585
+Tunisia,Middle East & North Africa,8.6003,0.513236274
+Belarus,Europe,8.6484,0.446120962
+South Africa,Sub-Saharain Africa,8.6869,0.379005651
+"Korea, Republic of",Asia,8.6936,0.31189034
+Algeria,Sub-Saharain Africa,8.7151,0.244775029
+Czech Republic,Europe,9.1180,0.177659717
+Lebanon,Sub-Saharain Africa,9.2031,0.110544406
+Hungary,Europe,9.1138,0.043429095
+United Kingdom,Europe,10.0343,-0.023686216
+Poland,Europe,9.3821,-0.161322243
+Bangladesh,Asia,9.2160,-0.201854204
+Panama,Latin America,58.7105,-0.225491978
+Ireland,Europe,10.8028,-0.272431824
+Germany,Europe,11.5627,-0.32216547
+Philippines,Asia,19.4164,-0.386189682
+Thailand,Asia,11.4907,-0.404226549
+Ukraine,Europe,12.3053,-0.51746439
+Japan,Asia,16.9050,-0.64551231
+Luxembourg,Europe,16.1851,-0.671851954
+Australia,Oceania,13.7257,-0.81277267
+Republic of Moldova,Europe,13.3912,-0.8979456
+United States,North America,13.5501,-1.077804725
+Nicaragua,Latin America,16.8329,-1.139091472
+Iraq,Middle East & North Africa,12.6683,-1.151138053
+France,Europe,18.8297,-1.27216052
+Azerbaijan,Asia,13.7675,-1.346999353
+Lithuania,Europe,19.9214,-1.445180583
+Iran (Islamic Republic of),Middle East & North Africa,12.9872,-1.4616
+Malaysia,Asia,16.1075,-1.663184534
+Greece,Europe,18.2448,-1.705017524
+Bulgaria,Europe,18.8982,-1.768656786
+India,Asia,18.5255,-1.831133047
+Mexico,Latin America,17.4287,-1.917718148
+Italy,Europe,24.8774,-1.964829241
+Spain,Europe,18.3544,-1.988351509
+China,Asia,26.8525,-2.179955148
+Nigeria,Sub-Saharain Africa,23.2526,-2.204930345
+Dominican Republic,Latin America,16.3168,-2.299831885
+Russia,Europe,22.9761,-2.6506026
+Syrian Arab Republic,Middle East & North Africa,22.1083,-2.651090859
+Slovakia,Europe,23.1507,-2.68378176
+New Zealand,Oceania,69.8980,-2.853986003
+Morocco,Middle East & North Africa,13.4252,-3.127076602
+Portugal,Europe,25.0154,-3.336330276
+Cote d'Ivoire,Sub-Saharain Africa,32.5415,-3.537410814
+Bolivia,Latin America,35.8108,-3.828268372
+Viet Nam,Asia,51.9170,-3.91921592
+Finland,Europe,29.0705,-4.159881908
+Argentina,Latin America,32.6937,-4.473186868
+Gabon,Sub-Saharain Africa,38.8640,-4.610832066
+Bosnia and Herzegovina,Europe,44.2920,-4.634882426
+Romania,Europe,32.5278,-4.637209681
+El Salvador,Latin America,36.7355,-4.845074723
